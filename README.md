@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rishabpandey19@gmail.com**
 
-- ⚡ Fun fact **6 hours of debugging is far better than reading documentation for 5 min.**
+- ⚡ Fun fact **6 hours of debugging will save you from 1 hour of reading documentation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
