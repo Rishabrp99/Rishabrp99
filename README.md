@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabrp99&label=Profile%20views&color=0e75b6&style=flat" alt="rishabrp99" /> </p>
 
-- 🌱 I’m currently learning **Deep learning,Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Django, Flutter, Web dev, Machine learning**
 
